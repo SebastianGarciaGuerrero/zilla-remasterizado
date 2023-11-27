@@ -2,43 +2,43 @@
   {
     "desc": "La silla clásica, con un diseño elegante y ergonómico, es la versión propia de la carpintería tradicional de la silla redonda. El término silla clásica, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de asiento tradicional.",
     "id": "M001",
-    "img": "https://example.com/sillas/silla-12345.jpg",
+    "img": "https://i.pinimg.com/564x/97/4b/04/974b04b0969f61e169bdf279a60ba17b.jpg",
     "name": "silla elegante",
-    "price": 5950
+    "price": 78990
   },
   {
     "desc": "El escritorio es una pieza de mobiliario que consiste en una superficie plana, habitualmente rectangular, elaborada con madera de pino, barnizada y pulida, que comúnmente se utiliza para trabajar, estudiar y realizar diversas tareas.",
     "id": "M002",
-    "img": "https://example.com/escritorios/escritorio-67890.jpg",
+    "img": "https://i.pinimg.com/564x/a2/f3/45/a2f345283cac230967cef18c5779e059.jpg",
     "name": "escritorio clásico",
-    "price": 7250
+    "price": 230990
   },
   {
     "desc": "El sillón es una pieza de mobiliario que consiste en un asiento amplio y cómodo, habitualmente tapizado, elaborado con materiales de alta calidad, que comúnmente se utiliza para descansar y relajarse.",
     "id": "M003",
-    "img": "https://i.pinimg.com/564x/68/8d/82/688d8257cb8b5ddca78f6d6103c2b1d9.jpg",
+    "img": "https://i.pinimg.com/564x/50/45/49/504549554f93e0f7cb77938840862cc5.jpg",
     "name": "sillón confort",
-    "price": 5990
+    "price": 454990
   },
   {
     "desc": "La mesa de centro es una pieza de mobiliario que consiste en una superficie plana, habitualmente cuadrada o rectangular, elaborada con cristal templado y acero inoxidable, que comúnmente se utiliza en la sala de estar para colocar objetos decorativos y servir como punto focal.",
     "id": "M004",
-    "img": "https://example.com/mesas/mesa-centro-23456.jpg",
+    "img": "https://i.pinimg.com/564x/c0/c7/f0/c0c7f01110cb27a482a78fba417f264a.jpg",
     "name": "mesa de centro contemporánea",
-    "price": 9590
+    "price": 56990
   },
   {
-    "desc": "El armario es una pieza de mobiliario que consiste en un espacio de almacenamiento amplio, habitualmente con puertas corredizas, elaborado con madera de haya y espejos, que comúnmente se utiliza para organizar la ropa y accesorios.",
+    "desc": "Con ciertas influencias modernistas, del movimiento Memphis o de suprematismo ruso, Daria Zinovatnaya ha construido, desde su estudio en San Petersburgo, un universo único y reconocible",
     "id": "M005",
-    "img": "https://example.com/armarios/armario-78901.jpg",
-    "name": "armario de lujo",
-    "price": 6450
+    "img": "https://i.pinimg.com/564x/db/b1/a9/dbb1a96e1d805ebf4c120677c4c6171d.jpg",
+    "name": "Silla",
+    "price": 45990
   },
   {
-    "desc": "La cama es una pieza de mobiliario que consiste en una estructura sólida, habitualmente de metal pulido, con cabecera y pie de cama tapizados en cuero genuino, que comúnmente se utiliza para descansar y dormir cómodamente.",
+    "desc": "Fueron creados por diseñadores de la talla de Charles y Ray Eames o Verner Panton y, en la actualidad, son algunos de los diseños más deseados. Las firmas low cost han sabido aprovechar el filón recreando joyas como las sillas Eames Plastic DSW o Panton",
     "id": "M006",
-    "img": "https://example.com/camas/cama-34567.jpg",
-    "name": "cama de diseño",
-    "price": 8500
+    "img": "https://i.pinimg.com/564x/95/3c/0d/953c0df7b4f653f726f2cb3779eda8d8.jpg",
+    "name": "silla de diseño",
+    "price": 36990
   }
 ]
