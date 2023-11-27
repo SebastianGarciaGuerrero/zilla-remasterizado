@@ -1,4 +1,3 @@
-/* Estilos para el contenedor del carrito */
 .carrito-container {
     max-width: 800px;
     margin: 0 auto;
@@ -6,14 +5,12 @@
     display: flexbox;
   }
   
-  /* Estilos para el título del carrito */
   .carrito-title {
     font-size: 24px;
     font-weight: bold;
     margin-bottom: 20px;
   }
   
-  /* Estilos para cada elemento del carrito */
   .carrito-item {
     display: flex;
     align-items: center;
@@ -21,8 +18,8 @@
   }
   
   .carrito-img {
-    width: 20px; /* Ajusta el tamaño de la imagen como desees */
-    height: 20px; /* Ajusta el tamaño de la imagen como desees */
+    width: 20px;
+    height: 20px;
     object-fit: cover;
     margin-right: 20px;
     border-radius: 5px;
@@ -40,7 +37,7 @@
   
   .carrito-item-price {
     font-size: 18px;
-    color: #28a745; /* Texto verde para el precio */
+    color: #28a745;
     margin-bottom: 5px;
   }
   
@@ -54,7 +51,6 @@
     align-items: center;
   }
   
-  /* Estilos para los botones del carrito */
   .btn-remove {
     background-color: #ac8383;
     color: #fff;
@@ -84,14 +80,12 @@
     background-color: #218838;
   }
   
-  /* Estilos para el total del carrito */
   .carrito-total {
     font-size: 40px;
     font-weight: bold;
     margin: 20px 0;
   }
   
-  /* Estilos para el botón de "ir a pagar" */
   .btn-carrito {
     background-color: rgb(76, 111, 175);
     color: #fff;

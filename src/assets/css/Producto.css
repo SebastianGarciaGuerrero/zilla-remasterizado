@@ -69,13 +69,13 @@
   }
 
   .btn-vermas {
-    background-color: #83a9ac; /* Tu color personalizado */
-    color: white; /* Color del texto */
+    background-color: #83a9ac;
+    color: white;
   }
 
   .btn-add {
-    background-color: #83a9ac; /* Tu color personalizado */
-    color: white; /* Color del texto */
+    background-color: #83a9ac;
+    color: white;
   }
   
   .btn-add:hover {
